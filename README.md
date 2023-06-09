@@ -47,6 +47,7 @@ Les deux dernières colonnes signifient :
 Oui indique que la carte fonctionne en mode natif dans le mode spécifié. Patched driver/firmware
 signifie que la carte est compatible lorsqu'elle est utilisée avec des pilotes et/ou un micrologiciel patchés.
 Non signifie que ce mode n'est pas pris en charge par la carte réseau.
+
 Je recommande d'utiliser l'outil de test en mode mixte.
 
 Notez que les périphériques USB peuvent être utilisés à l'intérieur d'une machine virtuelle, et les pilotes et/ou micrologiciels modifiés
