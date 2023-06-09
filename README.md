@@ -120,7 +120,7 @@ Lors de l'utilisation d'une carte réseau qui n'est pas explicitement prise en c
 
 ![img.png](images/img1.png)
 
-# 3.  Lancement
+# 3. Lancement
 
 ```shell
 ./launch.sh
