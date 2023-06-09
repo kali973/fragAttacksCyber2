@@ -124,10 +124,4 @@ Lors de l'utilisation d'une carte réseau qui n'est pas explicitement prise en c
 
 ```shell
 ./launch.sh
-# fragAttacksCyber2
-# fragAttacksCyber2
-# fragAttacksCyber2
-# fragAttacksCyber2
-# fragAttacksCyber2
-# fragAttacksCyber2
-# fragAttacksCyber2
+
